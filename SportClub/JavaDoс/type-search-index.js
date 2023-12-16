@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"logic","l":"CommentManager"},{"p":"Interface","l":"Main"}];updateSearchResults();
